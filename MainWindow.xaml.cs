@@ -32,10 +32,6 @@ namespace WpfApp1
             //Main.NavigationService.Navigate(page1);
             //Main.NavigationService.Navigate(new Uri("Page1.xaml", UriKind.Relative));
             //Main.Navigate(page1);
-
-
-            
-
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
